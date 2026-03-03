@@ -1,8 +1,5 @@
 # OTP Bypass via Premature Session Cookie
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]([your-youtube-link](https://youtu.be/Rreozx8Ccow))
-[![Medium](https://img.shields.io/badge/Medium-Read-black)](your-medium-link)
-
 A deliberately vulnerable **ASP.NET Core 8** application demonstrating a critical MFA bypass: the application issues a full authentication cookie **before** OTP verification, allowing attackers to reuse that cookie and access protected endpoints without the second factor.
 
 This lab accompanies a full walkthrough video and blog post. Perfect for pentesters, developers, and security enthusiasts learning about authentication flaws.
