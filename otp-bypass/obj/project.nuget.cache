@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zFYzkK4cmP0ElOPTed8qkdvQ04OafJTKsGsqGNeN46XUAXRAlG4rP5JbgIxIBWbLZQvjVZKj79+myycBCyXhg==",
+  "success": true,
+  "projectFilePath": "/home/thegenetic/Desktop/otp-bypass/otp-bypass/otp-bypass.csproj",
+  "expectedPackageFiles": [
+    "/home/thegenetic/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/thegenetic/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/thegenetic/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
