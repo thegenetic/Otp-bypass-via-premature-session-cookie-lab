@@ -25,7 +25,7 @@ OTP: `123456`
 ## 📚 Resources
 
 - [🎥 YouTube Video – Full Walkthrough](https://youtu.be/Rreozx8Ccow)
-- [✍️ Medium Article – Deep Dive & Fix](your-medium-link)
+- [✍️ Medium Article – Deep Dive & Fix](https://medium.com/@pauldipesh29/otp-bypass-via-premature-session-cookie-9297ed196d5b)
 - [OWASP Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
 - [OWASP MFA Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html)
 
