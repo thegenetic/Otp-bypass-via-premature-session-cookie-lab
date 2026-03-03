@@ -1,6 +1,6 @@
 # OTP Bypass via Premature Session Cookie
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](your-youtube-link)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]([your-youtube-link](https://youtu.be/Rreozx8Ccow))
 [![Medium](https://img.shields.io/badge/Medium-Read-black)](your-medium-link)
 
 A deliberately vulnerable **ASP.NET Core 8** application demonstrating a critical MFA bypass: the application issues a full authentication cookie **before** OTP verification, allowing attackers to reuse that cookie and access protected endpoints without the second factor.
@@ -27,7 +27,7 @@ OTP: `123456`
 
 ## 📚 Resources
 
-- [🎥 YouTube Video – Full Walkthrough](your-youtube-link)
+- [🎥 YouTube Video – Full Walkthrough]([your-youtube-link](https://youtu.be/Rreozx8Ccow))
 - [✍️ Medium Article – Deep Dive & Fix](your-medium-link)
 - [OWASP Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
 - [OWASP MFA Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html)
